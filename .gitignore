@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+go/tp-lab5
+go/tp-lab5.exe
